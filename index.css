@@ -17,14 +17,14 @@
     margin-top: 1%;
 }
 
-.navegacao{
+.navegacao {
     display: flex;
     font-size: 23px;
     justify-content: flex-end;
     gap: 15px;
 }
 
-.apresentacao{
+.apresentacao {
     color: aqua;
     font-size: 40px;
     font-family: "Space Grotesk", sans-serif;
@@ -122,10 +122,12 @@ form {
     border: 1px solid #ccc;
     border-radius: 5px;
 }
+
 label {
     display: block;
     margin: 10px 0 5px;
 }
+
 input, textarea {
     width: 100%;
     padding: 10px;
@@ -133,6 +135,7 @@ input, textarea {
     border: 1px solid #ccc;
     border-radius: 5px;
 }
+
 button {
     padding: 10px 15px;
     background-color: #28a745;
@@ -141,6 +144,7 @@ button {
     border-radius: 5px;
     cursor: pointer;
 }
+
 button:hover {
     background-color: rgb(17, 71, 23)
 }
@@ -153,10 +157,10 @@ button:hover {
 }
 
 ul {
-    list-style-type: disc; /* Para exibir os bullet points */
-    padding-left: 20px;    /* Espaçamento à esquerda */
+    list-style-type: disc;
+    padding-left: 20px;
 }
 
 li {
-    margin-bottom: 5px;    /* Espaçamento entre os itens */
+    margin-bottom: 5px;
 }
